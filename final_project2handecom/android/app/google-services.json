@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770949869032",
+    "project_id": "nd-shop-f090a",
+    "storage_bucket": "nd-shop-f090a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770949869032:android:690cb65648a7f939ec485d",
+        "android_client_info": {
+          "package_name": "com.example.final_project2handecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770949869032-7e1cnajlcu07kvrddi1kbh4f15hngck1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project2handecom",
+            "certificate_hash": "9f2c79e798ce8b35f4119e4cd2f25a9e9966aef9"
+          }
+        },
+        {
+          "client_id": "770949869032-p3t54lgeghkbh6eqikje54mhve90h7v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmt19NX9KeCqyqO5F-9t3HypYdYFEs8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770949869032-p3t54lgeghkbh6eqikje54mhve90h7v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

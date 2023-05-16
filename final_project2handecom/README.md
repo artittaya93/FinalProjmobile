@@ -17,7 +17,13 @@ Note: You cannot search in the tab bar and you cannot add products.
 - The response and storage in the Backend portion include Login, Logout, and Signin.
 - The final component is the frontend, which can respond in the form of UI.
 
+Visual studio extensions:
+- Flutter 
+- JAVAHOME
+- Firebase
 
+Language:
+Python
 
 
 
